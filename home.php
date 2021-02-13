@@ -1,0 +1,1 @@
+<php_check_syntax> hi</php_check_syntax>
